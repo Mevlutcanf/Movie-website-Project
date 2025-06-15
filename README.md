@@ -1,2 +1,2 @@
 # Movie-website-Project
-Like a IMDB :)
+Like an IMDB :)
